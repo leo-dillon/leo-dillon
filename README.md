@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<img src = " (https://user-images.githubusercontent.com/100071544/194157994-7424c3d3-b10e-4a0a-82a7-36e33b96c5c5.gif) " width = "60" height = "60"/>
+ width = "60" height = "60"
 
 
 <!--
